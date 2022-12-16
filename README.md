@@ -26,8 +26,9 @@
 
 # How to run it!
 
-    Download zip file of this repository and unzip it.
-    1) Open Eclipse Go to File
-    2) Open Projects from File System(in import source (click on Directory) and choose your unzip folder 
-    3) Finish Run 
-    4) Run on server
+   
+    1) Download zip file of this repository and unzip it.
+    2) Open Eclipse Go to File -> Open Projects from File System -> 
+       in import source (click on Directory) and choose your unzip folder -> Finish
+    3) Run -> Run on server
+
